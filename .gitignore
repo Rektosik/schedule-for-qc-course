@@ -1,0 +1,7 @@
+node_modules/
+coverage/
+reports/
+frontend/node_modules/
+frontend/coverage/
+frontend/reports/
+.DS_Store
