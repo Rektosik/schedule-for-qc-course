@@ -1,10 +1,11 @@
-## Завдання 2: Mutation Testing
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f9451bd2-919d-4c5c-9485-4bf5602afbdc" />## Завдання 2: Mutation Testing
 
 ### Скріншоти результатів
 - **Mutation Report (ДО розширення тестів):**
-_
+- <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/27304a96-27a4-4d0c-9969-80c463b2149d" />
+
 - **Mutation Report (ПІСЛЯ розширення тестів):**
-<img width="1456" height="733" alt="image" src="https://github.com/user-attachments/assets/99959fef-38cf-48d6-9c69-a3e68fccb97a" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d77502b1-69ca-4828-9bf6-899d1086f907" />
 
 ### Аналіз мутантів
 Для виконання завдання було проаналізовано виживших мутантів та додано відповідні тести.
