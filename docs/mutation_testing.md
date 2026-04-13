@@ -5,7 +5,7 @@
 - <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/27304a96-27a4-4d0c-9969-80c463b2149d" />
 
 - **Mutation Report (ПІСЛЯ розширення тестів):**
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d77502b1-69ca-4828-9bf6-899d1086f907" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/72771a92-9a5f-4c32-8360-78757ec45ff8" />
 
 ### Аналіз мутантів
 Для виконання завдання було проаналізовано виживших мутантів та додано відповідні тести.
