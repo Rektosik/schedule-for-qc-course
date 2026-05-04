@@ -1,0 +1,12 @@
+test.afterAll(async () => {
+    console.log('Починаємо очищення бази...');
+    try {
+        await db.deleteGroupByName(testGroupName);
+        console.log('Дані видалено успішно.');
+    } catch (error) {
+        console.error('Помилка при видаленні даних:', error);
+    } finally {
+        await db.disconnect();
+        console.log('З’єднання з БД закрито. Готово!');
+    }
+});
